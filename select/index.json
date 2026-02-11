@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BRAVE GROOVE",
+  "base_artist": "iLiFE!",
+  "createdAt": "2026-02-11T03:22:06.729650Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BRAVE GROOVE",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_BRAVE_GROOVE_iLiFE!.txt"
+    }
+  ]
+}
